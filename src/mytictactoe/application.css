@@ -1,0 +1,108 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+#buttons{
+	-fx-focus-color: transparent;
+	-fx-background-insets: -1, 0, 1, 1;
+	-fx-font-weight: bold;
+	-fx-font-size: 36;
+	-fx-font-family: "Impact", Charcoal, sans-serif;
+	-fx-stroke: black;
+	-fx-stroke-width:1px;
+	-fx-text-fill: #151a49;
+}
+.winning-button{
+	-fx-background-color: 
+		radial-gradient(radius 100%, white, #ffe991, #f4c711); 
+	-fx-text-fill:red;
+}
+
+#closeButton{
+	-fx-font-weight: bold;
+	-fx-font-size: 12;
+	-fx-text-fill: red;
+}
+#quitButton{
+	-fx-font-weight: bold;
+	-fx-font-size: 12;
+	-fx-text-fill: red;
+}
+#player2ScoreText{
+	-fx-font-family: "Impact", Charcoal, sans-serif;
+	-fx-font-weight: bold;
+	-fx-fill:#ff4747;
+	-fx-font-size: 18;
+	-fx-stroke: black;
+    -fx-stroke-width: 1px;
+}
+#player1ScoreText{
+	-fx-font-family: "Impact", Charcoal, sans-serif;
+	-fx-font-weight: bold;
+	-fx-fill:#4778ff;
+	-fx-font-size: 18;
+	-fx-stroke: black;
+    -fx-stroke-width: 1px;
+}
+#playerTurnText{
+	-fx-font-family: "Impact", Charcoal, sans-serif;
+	-fx-font-weight: bold;
+	-fx-fill:#232323;
+	-fx-font-size: 18;
+	-fx-stroke: white;
+    -fx-stroke-width: 1px;
+}
+#playerScore{
+	-fx-font-family: "Impact", Charcoal, sans-serif;
+	-fx-fill:#191919;
+	-fx-font-size: 18;
+	-fx-stroke: white;
+    -fx-stroke-width: 1px;
+}
+#scorePane{
+	 -fx-background-color: linear-gradient(to top right, #ff4747, #4778ff);
+}
+#menuLabel{
+	-fx-font-family: "Impact", Charcoal, sans-serif;
+	-fx-fill:#191919;
+	-fx-font-size: 16;
+	-fx-stroke: white;
+    -fx-stroke-width: 1px;
+}
+#menuBar{
+	-fx-background-color: linear-gradient(to top right, #ff4747, #4778ff);
+	-fx-font-family: "Impact", Charcoal, sans-serif;
+	-fx-text-fill:#191919;
+	-fx-font-size: 16;
+	-fx-stroke: white;
+    -fx-stroke-width: 1px;
+}
+#borderPane{
+	-fx-background-color: linear-gradient(to top right, #ff4747, #4778ff);
+}
+#aboutText{
+	-fx-font-family: "Impact", Charcoal, sans-serif;
+	-fx-font-weight: bold;
+	-fx-fill:#232323;
+	-fx-font-size: 18;
+	-fx-stroke: white;
+    -fx-stroke-width: 1px;
+}
+#helpButtons{
+	-fx-font-family: "Impact", Charcoal, sans-serif;
+	-fx-font-weight: bold;
+	-fx-font-size: 18;
+	-fx-text-fill: #ff4747;
+}
+#instructions{
+	-fx-background-color:gray;
+	-fx-font-family: "Impact", Charcoal, sans-serif;
+	-fx-font-weight: bold;
+	-fx-fill:#232323;
+	-fx-font-size: 13;
+}
+#winnerText{
+	-fx-font-family: "Impact", Charcoal, sans-serif;
+	-fx-fill:#191919;
+	-fx-font-size: 18;
+	-fx-stroke: white;
+    -fx-stroke-width: 1px;
+}
