@@ -8,4 +8,4 @@
   This application was built in high school to demonstrate my skills as a Java developer. This was the first project where I designed and built a user interface using JavaFX!
 </p>
 
-<h3>⚠️ <ins>This project does not demonstrate my current skills as a developer as this was created over 3 years ago!</ins> ⚠️</h3>
+<h3>⚠️ <ins>This project does not demonstrate my current skills as this was created over 3 years ago!</ins> ⚠️</h3>
